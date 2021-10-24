@@ -6,9 +6,7 @@
 
 int main() {
     // Declaración e inicialicación de las variables
-    int x,
-    y,
-    i,
+    int i,
     election,
     comparation1,
     comparation2,
