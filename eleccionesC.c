@@ -72,7 +72,7 @@ int main() {
             printf("|_______________________________________|\n");
             printf("|    Votos nulos     |        %d         |", nullVotes);
             printf("\n|_______________________________________|\n");
-            printf("\nHa habido una abstecion de %d electores.\n", electors);
+            printf("\nHa habido una abstencion de %d electores.\n", electors);
             final = true;
         } else 
             printf("\n!Error¡\nIngrese una opcion valida (RECUERDE ACTIVAR MAYUSCULAS).\n\n");
